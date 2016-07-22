@@ -1,4 +1,4 @@
-# My-panel
+# My-panel [![Build Status](https://travis-ci.org/kategengler/my-panel.svg?branch=master)](https://travis-ci.org/kategengler/my-panel)
 
 This addon is a demo addon.
 
