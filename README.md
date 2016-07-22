@@ -1,5 +1,7 @@
 # My-panel
 
+This addon is a demo addon.
+
 This README outlines the details of collaborating on this Ember addon.
 
 ## Installation
