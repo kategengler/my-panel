@@ -1,6 +1,6 @@
 {
   "name": "my-panel",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A panel wrapper demo addon",
   "private": true,
   "directories": {
