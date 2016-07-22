@@ -2,5 +2,8 @@
 'use strict';
 
 module.exports = {
-  name: 'my-panel'
+  name: 'my-panel',
+  isDevelopingAddon: function() {
+    return true;
+  }
 };

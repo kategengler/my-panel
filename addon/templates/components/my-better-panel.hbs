@@ -1,0 +1,9 @@
+<div class="panel panel-default">
+  <div class="panel-heading">
+    <h3 class="panel-title">{{title}}</h3>
+  </div>
+  {{yield (hash
+  content=(component "my-better-panel-content")
+  footer=(component footer)
+  )}}
+</div>
