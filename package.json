@@ -50,6 +50,7 @@
   },
   "ember-addon": {
     "configPath": "tests/dummy/config",
+    "demoURL": "https://kategengler.github.io/my-panel/",
     "versionCompatibility": {
       "ember": "> 2.3.0"
     }
